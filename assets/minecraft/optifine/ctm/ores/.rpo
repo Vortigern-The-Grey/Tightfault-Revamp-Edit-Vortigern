@@ -1,7 +1,4 @@
 {
   condition: "ores.default",
-  fallback: [
-    "assets/minecraft/optifine/ctm/ores_vanilla/.rpo",
-    "assets/minecraft/optifine/ctm/ores_programmer/.rpo"
-  ]
+  fallback: "assets/minecraft/optifine/ctm/ores_vanilla/"
 }
