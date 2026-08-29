@@ -1,0 +1,4 @@
+{
+  condition: "ores.default",
+  fallback: "assets/minecraft/textures/block/ores/clean/deepslate_coal_ore.png"
+}
