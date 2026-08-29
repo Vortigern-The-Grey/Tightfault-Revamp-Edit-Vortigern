@@ -1,0 +1,13 @@
+{
+    id: "tightfaultRevampEdit",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter", "DirFilterAdditive"],
+    conf: {
+        // Your config options here
+	ores: [
+	    "default",
+	    "vanilla",
+	    "programmerArt"
+	]
+    }
+}
