@@ -1,3 +1,4 @@
 {
-  condition: "ores.vanilla"
+  condition: "ores.vanilla",
+  fallback: "assets/minecraft/textures/block_programmer/.rpo"
 }
