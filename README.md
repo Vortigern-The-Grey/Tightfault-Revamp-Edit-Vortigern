@@ -2,7 +2,7 @@
 
 Hi, this is the offical github repository for ~Tightfault Revamp Edit~ Vortigern’s (my) work on Tightfault Revamp Edit. This will contain the branches for any new features or bug fixes I do for TRE.
 
-### Official Download Links (for the man pack):
+### Official Download Links (for the main pack):
 [Modrinth](https://modrinth.com/resourcepack/tightfault-revamp-edit)
 
 [Curseforge](https://www.curseforge.com/minecraft/texture-packs/tightfault-revamp-edit)
