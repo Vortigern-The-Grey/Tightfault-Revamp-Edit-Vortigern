@@ -1,4 +1,4 @@
 {
   condition: "ores.default",
-  fallback: "assets/minecraft/textures/block/ores/programmer/crimson_nylium_side.png"
+  fallback: "assets/minecraft/textures/block/ores/programmer/crimson_nylium.png"
 }

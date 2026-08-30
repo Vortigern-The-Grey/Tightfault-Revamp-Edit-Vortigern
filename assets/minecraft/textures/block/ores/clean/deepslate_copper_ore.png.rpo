@@ -1,4 +1,4 @@
 {
-  condition: "ores.default",
+  condition: "ores.clean",
   fallback: "assets/minecraft/textures/block/ores/programmer/deepslate_copper_ore.png"
 }

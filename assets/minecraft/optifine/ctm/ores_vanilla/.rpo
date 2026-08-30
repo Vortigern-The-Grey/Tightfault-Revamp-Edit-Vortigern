@@ -1,4 +1,4 @@
 {
-  condition: "ores.vanilla",
+  condition: "ores.clean",
   fallback: "assets/minecraft/optifine/ctm/ores_programmer/"
 }

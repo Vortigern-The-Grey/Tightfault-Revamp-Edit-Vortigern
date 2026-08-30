@@ -1,4 +1,4 @@
 {
-  condition: "ores.default",
-  fallback: "assets/minecraft/textures/block/ores/clean/deepslate_lapis_ore.png"
+  condition: "ores.clean",
+  fallback: "assets/minecraft/textures/block/ores/programmer/deepslate_lapis_ore.png"
 }
