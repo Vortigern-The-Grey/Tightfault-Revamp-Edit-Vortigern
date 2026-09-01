@@ -1,3 +1,4 @@
 {
-    condition: "ores.programmerArt"
+  condition: "ores.default",
+  fallback: "assets/minecraft/textures/block/ores/programmer/cobblestone.png"
 }
