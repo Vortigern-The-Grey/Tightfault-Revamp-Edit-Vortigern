@@ -1,0 +1,4 @@
+{
+  condition: "ores.clean",
+  fallback: "assets/minecraft/textures/block/ores/programmer/copper_ore.png"
+}
