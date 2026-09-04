@@ -1,0 +1,13 @@
+
+menu.singleplayer=Test Worlds
+menu.multiplayer=Server List
+
+options.fov.max=Don't Use This
+options.gamma.min=Moody
+options.sensitivity.max=HYPERSPEED!!!
+options.renderDistance.tiny=Blind
+options.viewBobbing=View Bobbing
+
+item.bow.name=Spamming Device
+
+enchantment.knockback=Anti-Melee
