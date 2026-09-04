@@ -2,11 +2,11 @@
 menu.singleplayer=Test Worlds
 menu.multiplayer=Server List
 
-options.fov.max=Don't Use This
+options.fov.max=Don't Use This Please
 options.gamma.min=Moody
-options.sensitivity.max=HYPERSPEED!!!
-options.renderDistance.tiny=Blind
-options.viewBobbing=View Bobbing
+options.sensitivity.max=SPEED
+options.renderDistance.tiny=Bad Computer
+options.viewBobbing=Screen Bounce
 
 item.bow.name=Spamming Device
 
